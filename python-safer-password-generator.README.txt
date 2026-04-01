@@ -1,0 +1,1 @@
+En este codigo, se modifico el generador de contraseñas haciendo que esta sea mas segura, pudiendo el usuario elegir la longitud, si tendra mayusculas, si tendra simbolos o de lo contrario, si solo sean letras minusculas.
